@@ -8175,11 +8175,11 @@ Text = [[
 -  𝗧𝗘𝗮𝗺 𝗗𝗲𝗺𝗼𝗻. 
  — — — — — — — — — 
      
-[[×]︙ 𝗗𝗲𝗺𝗼𝗻 𝗦𝗢𝗨𝗥𝗖𝗘.](https://t.me/SYYYYY)
+[×︙ 𝗗𝗲𝗺𝗼𝗻 𝗦𝗢𝗨𝗥𝗖𝗘.](https://t.me/SYYYYY)
      
-[[×]︙𝗗𝗘𝗩 𝗗𝗲𝗺𝗼𝗻.](https://t.me/XAXXX)
+[×︙𝗗𝗘𝗩 𝗗𝗲𝗺𝗼𝗻.](https://t.me/XAXXX)
      
-[[×]︙𝙗𝙤𝙩 𝗕𝗮𝗡𝗡𝗘𝗗𖠛 .](https://t.me/xxabot)
+[×︙𝙗𝙤𝙩 𝗕𝗮𝗡𝗡𝗘𝗗𖠛 .](https://t.me/xxabot)
 
 
 
