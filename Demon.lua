@@ -8338,7 +8338,7 @@ Text = [[
 ×︙مسح الصلاحيات
 ×︙مسح الرابط
 — — — — — — — — — 
-[×︙{Ch Source📪](https://t.me/syyyyy)
+[×︙Ch Source📪](https://t.me/syyyyy)
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -8391,7 +8391,7 @@ Text = [[
 ×︙تغير رد المميز + النص
 ×︙تغير رد العضو + النص
 — — — — — — — — — 
-[×︙{Ch Source📪](https://t.me/syyyyy) 
+[×︙Ch Source📪](https://t.me/syyyyy) 
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -8425,7 +8425,7 @@ Text = [[
 ×︙اضف رسائل + العدد بالرد
 ×︙اضف مجوهرات + العدد بالرد
 — — — — — — — — — 
-[×︙{Ch Source📪](https://t.me/syyyyy)
+[×︙Ch Source📪](https://t.me/syyyyy)
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
@@ -8470,7 +8470,7 @@ Text = [[
 ×︙اذاعه بالتثبيت 
 ×︙الاحصائيات 
 — — — — — — — — — 
-[×︙{Ch Source📪](https://t.me/syyyyy)
+[×︙Ch Source📪](https://t.me/syyyyy)
 ]]
 send(msg.chat_id_, msg.id_,Text)
 return false
